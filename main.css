@@ -1,0 +1,72 @@
+* {
+    font-family: "Lato", sans-serif;
+}
+
+span {
+    
+    width: fit-content;
+}
+
+.productBox {
+    border: solid 1px lightgray;
+    width: max-content;
+    padding: 5px;
+    width: 23%;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 2px;
+}
+
+img {
+    width: 200px;
+    
+}
+
+.img {
+    width: 100%;
+}
+
+h2 {
+    margin: 0;
+    font-size: 15px ;
+}
+
+.caption {
+    padding: 15px 5px;
+}
+
+
+.productBox .caption p {
+    color: darkgrey;
+}
+
+.price {
+    color: green;
+}
+
+.offer {
+    color: red;
+    font-size: 8px ;
+   
+}
+
+button {
+    padding: 5px;
+    border: none;
+    
+}
+
+.add-to-cart-btn {
+    width: 135px;
+    background-color: #2973e9;
+    color: white;
+    
+
+}
+
+.fav-btn {
+    width: 50px;
+    color: #2973e9;
+    border: solid 1px #2973e9;
+   
+}
